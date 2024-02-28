@@ -71,6 +71,13 @@ In the `Jenkins-Pipeline-Code` directory, you'll find Jenkins pipeline scripts. 
   ```
   ![project0 12](https://github.com/SachinBhatt12/React-Node-Project/assets/109944791/11b28bf3-5348-474b-bff8-6725acada12f)
 
+![01react](https://github.com/SachinBhatt12/React-Node-MySQL-Project/assets/109944791/6628ec49-60f7-48c7-88fb-99ef9794e8ff)
+
+  ![02react](https://github.com/SachinBhatt12/React-Node-MySQL-Project/assets/109944791/9a1d81db-6297-474d-93a9-befb96b1c06e)
+
+  
+  
+
  ### Step 2: Backend Development with Node.js:
  - Initialize a new Node.js project:
   ``` shell
