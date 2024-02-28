@@ -71,13 +71,8 @@ In the `Jenkins-Pipeline-Code` directory, you'll find Jenkins pipeline scripts. 
   ```
   ![project0 12](https://github.com/SachinBhatt12/React-Node-Project/assets/109944791/11b28bf3-5348-474b-bff8-6725acada12f)
 
-![01react](https://github.com/SachinBhatt12/React-Node-MySQL-Project/assets/109944791/6628ec49-60f7-48c7-88fb-99ef9794e8ff)
-
-  ![02react](https://github.com/SachinBhatt12/React-Node-MySQL-Project/assets/109944791/9a1d81db-6297-474d-93a9-befb96b1c06e)
 
   
-  
-
  ### Step 2: Backend Development with Node.js:
  - Initialize a new Node.js project:
   ``` shell
@@ -92,7 +87,25 @@ In the `Jenkins-Pipeline-Code` directory, you'll find Jenkins pipeline scripts. 
 ![project2](https://github.com/SachinBhatt12/React-Node-Project/assets/109944791/f2b84381-956d-41a6-90cc-f96e0a8dbf30)
 
 
-### Step 3: Configure SonarQube to Check Code Quality: Install SonarQube on your system and start the server.
+ ### Step 3: output the code
+
+ ![postman software01](https://github.com/SachinBhatt12/React-Node-MySQL-Project/assets/109944791/13686584-43db-40b5-9c5a-71abdf7f4070)
+
+ 
+![postmansoftware02](https://github.com/SachinBhatt12/React-Node-MySQL-Project/assets/109944791/0d84d143-0354-4fd6-865b-d73c7c0c0517)
+
+
+![postmansoftware03](https://github.com/SachinBhatt12/React-Node-MySQL-Project/assets/109944791/e276810c-6773-4424-acb4-b3fca373f944)
+
+
+ ![Front](https://github.com/SachinBhatt12/React-Node-MySQL-Project/assets/109944791/d0656880-1446-488b-be00-ff42b9dc1998)
+
+ ![update](https://github.com/SachinBhatt12/React-Node-MySQL-Project/assets/109944791/c9f6587c-3d16-4eba-8950-5d046e26f360)
+
+
+
+
+### Step 4: Configure SonarQube to Check Code Quality: Install SonarQube on your system and start the server.
       Configure SonarQube for your projects. You'll need to set up a sonar-project.properties file in your project directory to define properties for SonarQube analysis.
 
 ![sonarqube](https://github.com/SachinBhatt12/React-Node-Project/assets/109944791/ada8de59-e6d5-46a7-ac0d-3d7dc8c921f2)
