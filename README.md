@@ -42,6 +42,7 @@ In the `Jenkins-Pipeline-Code` directory, you'll find Jenkins pipeline scripts. 
 🛠️ **Tools Explored:**
 - React
 - Node.js
+- MYSQL database
 - SonarQube
 - Jenkins
 - GitHub
