@@ -1,4 +1,4 @@
-# # MYSQL CRUD Operations Using  Node.js and React. CRUD Real-world Project from scratch. Create,Read,Update and Delete data using a MYSQL database.Development Workflow Automation with React, Node.js, SonarQube, Jenkins, and GitHub.
+# #  "Mastering CRUD Operations: Building a Full-Stack Application with MySQL, Node.js, React, and Automated Workflow Integration using SonarQube, Jenkins, and GitHub"
 ![image1](https://github.com/SachinBhatt12/React-Node-Project/assets/109944791/a292fad4-5a68-4f2f-9e74-dbc042f8ccde)
 
 
