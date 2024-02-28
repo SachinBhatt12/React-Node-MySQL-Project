@@ -1,0 +1,23 @@
+
+FROM node:latest
+
+
+WORKDIR /usr/src/app
+
+
+COPY package*.json ./
+
+
+RUN npm install
+
+
+COPY . .
+
+
+RUN npm run build
+
+# Expose the port the app runs on (3000 by default for React)
+EXPOSE 3000
+
+# Command to run the application
+CMD ["npm", "start"]
